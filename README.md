@@ -1,3 +1,5 @@
+**###TRACY AKINYI OLUOCH. SCT222-0162/2017**
+Intelligent recommendations is using transformer models and their Attention mechanisms to predict what a user might want to see or do next based on their past behaviour.
 Objective:
 
 __**The goal is to process comments intelligently to extract meaning, keywords, sentiment, and recommendations.___
