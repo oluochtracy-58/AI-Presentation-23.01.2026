@@ -1,4 +1,5 @@
-**###TRACY AKINYI OLUOCH. SCT222-0162/2017**
+###**TRACY AKINYI OLUOCH. SCT222-0162/2017**
+
 Intelligent recommendations is using transformer models and their Attention mechanisms to predict what a user might want to see or do next based on their past behaviour.
 Objective:
 
